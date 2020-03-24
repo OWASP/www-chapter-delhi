@@ -18,9 +18,9 @@ region: Asia
 
 ### Links to our various social media channels:
 
-  - OWASP Bangalore Mailing List
+  - OWASP Delhi Mailing List
     <https://groups.google.com/a/owasp.org/forum/#!forum/delhi-chapter/join>
   - OWASP Delhi Meetup
     <https://www.meetup.com/OWASP-Delhi-NCR-Chapter/>
-  - OWASP Bangalore Facebook Page
+  - OWASP Delhi Facebook Page
     <https://www.facebook.com/nullOwaspDelhi/>
