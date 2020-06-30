@@ -22,5 +22,4 @@ region: Asia
     <https://groups.google.com/a/owasp.org/forum/#!forum/delhi-chapter/join>
   - OWASP Delhi Meetup
     <https://www.meetup.com/OWASP-Delhi-NCR-Chapter/>
-  - OWASP Delhi Facebook Page
-    <https://www.facebook.com/nullOwaspDelhi/>
+
