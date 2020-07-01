@@ -1,4 +1,4 @@
 ### Leaders
 
 * [Vaibhav Gupta](mailto:vaibhav.gupta@owasp.org)
-* [Sandeep Singh](mailto:)
+* [Sandeep Singh](mailto:sandeep.singh@owasp.org)
