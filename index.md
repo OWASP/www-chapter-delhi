@@ -6,6 +6,9 @@ tags: del
 level: 0
 
 region: Asia
+meetup-group: OWASP-Delhi-NCR-Chapter
+country: India
+postal-code: 
 
 ---
 
