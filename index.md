@@ -35,6 +35,7 @@ postal-code:
 | Title | Meetup URL | Date |
 | --- | --- | --- |
 | OWASP Delhi March 21 Chapter Meeting | <https://www.meetup.com/OWASP-Delhi-NCR-Chapter/events/277095715/> | 27th March, 2021 (4:00 PM IST) |
+| OWASP Delhi / OWASP SeaSides CTF Hosted by Security Innovation | <https://www.meetup.com/OWASP-Delhi-NCR-Chapter/events/270478770/> | 9th May, 2020 (6:00 PM IST) |
 
 
 ### Check our upcoming events:
