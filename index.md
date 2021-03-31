@@ -30,6 +30,13 @@ postal-code:
 
   - We are open for speakers from anywhere in the world to present in the upcoming months at OWASP Delhi Chapter virtual meetings and events. If you are interested to speak,       please provide details via this form - <https://docs.google.com/forms/d/e/1FAIpQLScKxWuc6cUSw-D1cwCvi_4v8UugY16MEAKQB0RD2ydkhMCOPQ/viewform>
 
+### Previous Meetup
+
+| Title | Meetup URL | Date |
+| --- | --- | --- |
+| OWASP Delhi March 21 Chapter Meeting | https://www.meetup.com/OWASP-Delhi-NCR-Chapter/events/277095715/ | 27th March, 2021 |
+
+
 ### Check our upcoming events:
 
 {% include chapter_events.html group=page.meetup-group %}
