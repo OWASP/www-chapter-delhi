@@ -34,7 +34,7 @@ postal-code:
 
 | Title | Meetup URL | Date |
 | --- | --- | --- |
-| OWASP Delhi March 21 Chapter Meeting | https://www.meetup.com/OWASP-Delhi-NCR-Chapter/events/277095715/ | 27th March, 2021 |
+| OWASP Delhi March 21 Chapter Meeting | <https://www.meetup.com/OWASP-Delhi-NCR-Chapter/events/277095715/> | 27th March, 2021 |
 
 
 ### Check our upcoming events:
