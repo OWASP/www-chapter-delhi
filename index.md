@@ -30,7 +30,7 @@ postal-code:
 
   - We are open for speakers from anywhere in the world to present in the upcoming months at OWASP Delhi Chapter virtual meetings and events. If you are interested to speak,       please provide details via this form - <https://docs.google.com/forms/d/e/1FAIpQLScKxWuc6cUSw-D1cwCvi_4v8UugY16MEAKQB0RD2ydkhMCOPQ/viewform>
 
-### Previous Meetup
+### Previous Meetings
 
 | Title | Meetup URL | Date |
 | --- | --- | --- |
